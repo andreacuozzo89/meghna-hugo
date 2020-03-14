@@ -3,13 +3,12 @@ portfolio:
   enable: true
   title: My Paintings
   portfolio_item:
-  - name: Tag Design
+  - name: Check To Check
     image: images/portfolio/portfolio-1.jpg
     image_webp: images/portfolio/portfolio-1.webp
-    categories:
-    - design
+    categories: []
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
-    link: https://themefisher.com
+    link: ''
   - name: Sound system
     image: images/portfolio/portfolio-2.jpg
     image_webp: images/portfolio/portfolio-2.webp
