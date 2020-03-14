@@ -4,7 +4,7 @@ contact:
   title: Contact Me
   subtitle: Contact Details
   content: "Hi. Hope you have enjoyed your visit. \nIf you would like to connect,
-    go ahead! "
+    fill the form!"
   form_action: "#"
   contact_details:
   - icon: ti-location-pin
