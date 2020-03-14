@@ -1,7 +1,7 @@
 baseURL = "https://andrea-test.netlify.com"
 disableLanguages = []
 disqusShortname = ""
-paginate = "8"
+paginate = "6"
 summaryLength = "15"
 theme = "meghna-hugo"
 title = "Italos"
