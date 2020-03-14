@@ -9,12 +9,11 @@ portfolio:
     categories: []
     content: cm 130 x 130
     link: ''
-  - name: Sound system
+  - name: Corto
     image: images/portfolio/portfolio-2.jpg
     image_webp: images/portfolio/portfolio-2.webp
-    categories:
-    - development
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+    categories: []
+    content: cm 40 x 30
     link: ''
   - name: Clock Product
     image: images/portfolio/portfolio-3.jpg
