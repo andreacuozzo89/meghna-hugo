@@ -5,16 +5,13 @@ about:
   about_item:
   - icon: ti-ruler-pencil
     title: Paint
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil,
-      libero, perspiciatis eos provident laborum eum dignissimos.
+    content: Oil and watercolors
   - icon: ti-cup
     title: Write
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil,
-      libero, perspiciatis eos provident laborum eum dignissimos.
+    content: Poetry and prose
   - icon: ti-thought
-    title: Read
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil,
-      libero, perspiciatis eos provident laborum eum dignissimos.
+    title: Travel
+    content: Trips and Go
 menu:
   main:
     URL: about
