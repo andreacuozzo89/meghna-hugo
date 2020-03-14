@@ -5,8 +5,8 @@ banner:
   bg_image: images/backgrounds/hero-area.jpg
   icon: ''
   title: Unfiltered Air
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi.
-    At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!
+  content: "Welcome to my personal space. \nIf you've made it till here, it means
+    you know already who I really am. \nThis is for you. Leave a comment if you want. "
   button:
     enable: true
     label: Explore Us
