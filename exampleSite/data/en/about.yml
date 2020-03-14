@@ -1,7 +1,7 @@
 ---
 about:
   enable: true
-  title: About Me
+  title: What I do
   about_item:
   - icon: ti-ruler-pencil
     title: Paint
