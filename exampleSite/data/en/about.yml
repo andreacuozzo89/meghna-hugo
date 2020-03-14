@@ -10,8 +10,8 @@ about:
     title: Write
     content: Poetry and prose
   - icon: ti-thought
-    title: Travel
-    content: Trips and Go
+    title: Do
+    content: Trips and Hikes
 menu:
   main:
     URL: about
