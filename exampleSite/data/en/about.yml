@@ -12,8 +12,3 @@ about:
   - icon: ti-thought
     title: Do
     content: Trips and Hikes
-menu:
-  main:
-    URL: about
-    name: What I Do
-    weight: 1

@@ -20,23 +20,7 @@ weight = ""
 [[menu.main]]
 URL = "blog"
 name = "Blog"
-weight = "2"
-[[menu.main]]
-URL = "painting"
-name = "Paintings"
-weight = 3
-[[menu.main]]
-URL = "about"
-name = "About Me"
-weight = "5"
-[[menu.main]]
-URL = "team"
-name = "About Me"
-weight = 4
-[[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = "6"
+weight = 1
 [params]
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax HTML5 Template"

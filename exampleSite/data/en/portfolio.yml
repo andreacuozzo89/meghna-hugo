@@ -15,3 +15,8 @@ portfolio:
     categories: []
     content: cm 40 x 30
     link: ''
+menu:
+  main:
+    URL: portfolio
+    name: Paintings
+    weight: 2
