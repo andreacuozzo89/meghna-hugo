@@ -9,6 +9,6 @@ banner:
     you know already who I really am. \nI share here my unfiltered being. Leave a
     comment if you wish. "
   button:
-    enable: true
+    enable: false
     label: Ask a Question
     link: ''
