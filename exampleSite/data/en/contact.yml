@@ -13,3 +13,7 @@ contact:
     info: 'Phone: +39 351 862 7684'
   - icon: ti-email
     info: 'Email: andrea.cuozzo89@gmail.com'
+  map:
+    enable: true
+    map_latitude: '45.456920'
+    map_longitude: '9.186820'
