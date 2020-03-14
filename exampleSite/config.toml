@@ -19,23 +19,19 @@ languageName = ""
 weight = ""
 [[menu.main]]
 URL = "about"
-name = "About Us"
+name = "About Me"
 weight = 1
 [[menu.main]]
 URL = "blog"
 name = "Blog"
 weight = 6
 [[menu.main]]
-URL = "services"
-name = "Service"
-weight = 2
-[[menu.main]]
 URL = "portfolio"
-name = "Portfolio"
+name = "Paintings"
 weight = 3
 [[menu.main]]
 URL = "team"
-name = "Team"
+name = "About Me"
 weight = 4
 [[menu.main]]
 URL = "contact"
