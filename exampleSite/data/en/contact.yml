@@ -17,3 +17,4 @@ contact:
     enable: true
     map_latitude: '45.456920'
     map_longitude: '9.186820'
+    gmap_api: https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ
