@@ -2,12 +2,12 @@
 banner:
   enable: true
   bg_image_webp: images/backgrounds/hero-area.webp
-  bg_image: images/backgrounds/hero-area.jpg
+  bg_image: images/backgrounds/Cover.jpg
   icon: ''
   title: Unfiltered Air
   content: "Welcome to my personal space. \nIf you've made it till here, it means
     you know already who I really am. \nThis is for you. Leave a comment if you want. "
   button:
     enable: true
-    label: Explore Us
-    link: "#services"
+    label: Ask a Question
+    link: ''
